@@ -1,0 +1,38 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f7f7f7;
+    position: relative;
+    margin: 0px;
+    font-size: 12px;
+    padding: 0px;
+}
+
+.mainView {
+    min-height: 550px;
+}
+
+.thead-dark th {
+    color: #fff;
+    background-color: #373a3c;
+}
+
+.btncolor {
+    color: #FFFFFF;
+    background-color: #5CB85C !important;
+    border-color: #5CB85C;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-right: 4px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
